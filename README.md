@@ -3,6 +3,7 @@
 This project is an interactive story developed for the course *Tecnologías y Sistemas Web*.  
 The story allows the user to navigate through different paths using only HTML and links, without CSS or JavaScript, as required in the assignment.
 
+
 ## Project Structure
 
 The project is organized in folders:
@@ -52,3 +53,7 @@ No additional configuration is required.
 - Student: Miguel Rosas - 241274
 - Course: Tecnologías y Sistemas Web  
 - Year: 2026
+
+## Video
+
+Video: https://youtu.be/VSkZIADQQ5A
